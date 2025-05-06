@@ -4,7 +4,7 @@ const steps = [
     title: "Introduction to Geometry Dash Game",
     description:
       "In this tutorial, we'll create a simplified version of Geometry Dash where a character moves forward automatically through a scrolling level with obstacles. The player presses space to jump over obstacles.",
-    images: ["/images/fist-week10.png"],
+    images: ["/images/first-week10.png"],
   },
   {
     title: "Seating-chart",
@@ -14,11 +14,7 @@ const steps = [
     title: "Step 1: Implementing Player Controls",
     description:
       "Add the jumping mechanic by creating a script that moves the sprite up and then down when the space key is pressed, simulating a jump.",
-    images: [
-      "/images/Player_flagclicked.png",
-      "/images/Player_sound.png",
-      "/images/Player_jump_2.png",
-    ],
+    images: ["/images/Player_sound.png", "/images/Player_jump_2.png"],
   },
   {
     title: "Step 2: Setting Up Obstacle Behavior and Collision Detection",
